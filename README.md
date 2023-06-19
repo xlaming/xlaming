@@ -1,16 +1,45 @@
-### Hi there 👋
+<h2 align="center">Paulo Rodrigues</h2>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=xlaming&style=for-the-badge" />
+</p>
 
-<!--
-**xlaming/xlaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```scala
+class Attributes extends xLaming {
+  def contact(): (String, String, String) = {
+    val discord = "Paulo#0069"
+    val email = "paulo@ipguardianhub.com"
 
-Here are some ideas to get you started:
+    (discord, telegram, proton)
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  def life(): (List[String], Int) = {
+    val languages = List("Portuguese", "Arabic", "Spanish", "English", "Italian")
+    val age = 23
+
+    (languages, age)
+  }
+
+  def coding(): (Map[String, List[String]], List[String], List[String]) = {
+    val languages = Map(
+      "expert" -> List("php", "python", "javascript"),
+      "intermediate" -> List("bash", "asterisk"),
+      "learning" -> List("c", "c++", "go", "swift", "scala")
+    )
+    val specialities = List("web/app", "servers", "reverse engineering")
+    val environment = List("vscode")
+
+    (languages, specialities, environment)
+  }
+}
+
+
+```
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xlaming&theme=dracula&show_icons=true" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlaming&theme=dracula&layout=donut">
+</p>
+
