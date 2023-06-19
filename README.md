@@ -55,7 +55,7 @@ class Attributes extends xLaming {
 ```
 
 <p float="left" align="center">
-  <img height="250" width="450" src="https://github-readme-stats.vercel.app/api?username=xlaming&theme=dracula&show_icons=true" alt="Stats" title="Stats"/>
-  <img height="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlaming&theme=dracula&layout=donut"alt="Languages" title="Languages"/> 
+  <img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=xlaming&theme=dracula&show_icons=true" alt="Stats" title="Stats"/>
+  <img height="250" width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlaming&theme=dracula&layout=donut"alt="Languages" title="Languages"/> 
 </p>
 
