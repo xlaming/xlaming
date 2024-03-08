@@ -25,15 +25,15 @@
 ```scala
 class Attributes extends xLaming {
   def contact(): (String, String, String) = {
-    val discord = "Paulo#0069"
-    val email = "paulo@ipguardianhub.com"
+    val discord = "xlaming"
+    val email = "paulo@wnfstudios.com"
 
     (discord, telegram, proton)
   }
 
   def life(): (List[String], Int) = {
     val languages = List("Portuguese", "Arabic", "Spanish", "English", "Italian")
-    val age = 23
+    val age = 24
 
     (languages, age)
   }
