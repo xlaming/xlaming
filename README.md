@@ -28,7 +28,7 @@ class Attributes extends xLaming {
     val discord = "xlaming"
     val email = "paulo@wnfstudios.com"
 
-    (discord, telegram, proton)
+    (discord, email)
   }
 
   def life(): (List[String], Int) = {
