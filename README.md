@@ -26,23 +26,23 @@
 class Attributes extends xLaming {
   def contact(): (String, String, String) = {
     val discord = "xlaming"
-    val email = "paulo@wnfstudios.com"
+    val email = "(disabled for now)"
 
     (discord, email)
   }
 
   def life(): (List[String], Int) = {
     val languages = List("Portuguese", "Arabic", "Spanish", "English", "Italian")
-    val age = 24
+    val age = 25
 
     (languages, age)
   }
 
   def coding(): (Map[String, List[String]], List[String], List[String]) = {
     val languages = Map(
-      "expert" -> List("php", "python", "javascript"),
+      "expert" -> List("php", "python", "javascript", "c", "c++"),
       "intermediate" -> List("bash", "asterisk"),
-      "learning" -> List("c", "c++", "go", "swift", "scala")
+      "learning" -> List(, "go", "swift", "scala")
     )
     val specialities = List("web/app", "servers", "reverse engineering")
     val environment = List("vscode")
