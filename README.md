@@ -41,8 +41,8 @@ class Attributes extends xLaming {
   def coding(): (Map[String, List[String]], List[String], List[String]) = {
     val languages = Map(
       "expert" -> List("php", "python", "javascript", "c", "c++"),
-      "intermediate" -> List("bash", "asterisk"),
-      "learning" -> List(, "go", "swift", "scala")
+      "intermediate" -> List("bash", "asterisk", "lua"),
+      "learning" -> List("rust", "go", "swift", "scala")
     )
     val specialities = List("web/app", "servers", "reverse engineering")
     val environment = List("vscode")
